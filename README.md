@@ -1,4 +1,4 @@
-# Salesforce DX Project: Next Steps - I am main folder containing base org code
+# Salesforce DX Project: Next Steps - I am WI - 102 ...will be working on custom object crete requet
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
