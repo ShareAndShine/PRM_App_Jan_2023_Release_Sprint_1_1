@@ -1,4 +1,4 @@
-# Salesforce DX Project: Next Steps
+# Salesforce DX Project: Next Steps - I am main folder containing base org code
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
