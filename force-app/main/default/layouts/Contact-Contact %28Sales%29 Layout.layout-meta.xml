@@ -80,7 +80,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+
                 <field>Contact_Deoartment__c</field>
+
+                <field>LinkedIn_URL__c</field>
+
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
@@ -273,6 +277,9 @@
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
     <summaryLayout>
         <masterLabel>00hN0000003SENy</masterLabel>
+
+        <masterLabel>00h1y000002qRIS</masterLabel>
+
         <sizeX>4</sizeX>
         <sizeY>0</sizeY>
         <summaryLayoutStyle>Default</summaryLayoutStyle>
